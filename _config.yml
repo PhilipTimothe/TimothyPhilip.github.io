@@ -1,11 +1,11 @@
 # Site settings
 author: Philippe Timothe
-title: 
+title: Philip's Tech Journey 
 header-img: img/home-bg.png
 email: philippetimothe@gmail.com
 copyright_name: Philippe Timothe
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A short look into the depths of learning code by Philippe Timothe   =)
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  TimothyPhilip
