@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Project & What I Understand Now"
-date:       2020-08-06 19:50:07 +0000
+date:       2020-08-06 15:50:08 -0400
 permalink:  sinatra_project_and_what_i_understand_now
 ---
 
